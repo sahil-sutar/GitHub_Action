@@ -24,7 +24,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name:deploying the code
+      - name: deploying the code
         run: echo "deploying code"
   
 
